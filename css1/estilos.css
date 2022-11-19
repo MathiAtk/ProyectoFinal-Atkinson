@@ -4,7 +4,7 @@
 
 .col-media {
   background-color: #4d6c92;
-  border: 5px dashed #f60303; }
+  border: 5px solid #f60303; }
 
 .text-transform {
   font-size: medium; }
@@ -20,7 +20,7 @@ body {
   background-size: cover; }
 
 header {
-  background-image: url("../images/headerback.svg"); }
+  background-image: url("../images/bgheader.jpeg"); }
 
 @media (max-width: 576px) {
   .row1 {
